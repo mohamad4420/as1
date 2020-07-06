@@ -1,0 +1,35 @@
+body  {
+    background-image: url("../img/s1.jpg");
+    background-color: #e99393;
+  }
+  #i1{
+   color:snow ;   
+   position: relative;
+   left: 35%;
+   top: 15px;;
+  }
+  #lapel{
+    color:wheat ; 
+      position: relative;
+      left: 42%;
+      top: 180px;
+      font-size: 23px;
+  }
+  #inp{
+    color:black ; 
+    background-color: wheat;
+    position: relative;
+    left: 41.5%;
+    top: 230px;
+    height: 35px;;
+    width: 15%;
+  
+  }
+  #ptnn{
+ 
+    position: relative;
+    left: 41.5%;
+    top: 250px;
+    height: 35px;;
+    width: 15%;
+  }
